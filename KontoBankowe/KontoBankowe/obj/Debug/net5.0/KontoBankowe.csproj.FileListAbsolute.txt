@@ -1,0 +1,64 @@
+C:\Users\Piotr\source\repos\KontoBankowe\KontoBankowe\bin\Debug\net5.0\KontoBankowe.exe
+C:\Users\Piotr\source\repos\KontoBankowe\KontoBankowe\bin\Debug\net5.0\KontoBankowe.deps.json
+C:\Users\Piotr\source\repos\KontoBankowe\KontoBankowe\bin\Debug\net5.0\KontoBankowe.runtimeconfig.json
+C:\Users\Piotr\source\repos\KontoBankowe\KontoBankowe\bin\Debug\net5.0\KontoBankowe.runtimeconfig.dev.json
+C:\Users\Piotr\source\repos\KontoBankowe\KontoBankowe\bin\Debug\net5.0\KontoBankowe.dll
+C:\Users\Piotr\source\repos\KontoBankowe\KontoBankowe\bin\Debug\net5.0\ref\KontoBankowe.dll
+C:\Users\Piotr\source\repos\KontoBankowe\KontoBankowe\bin\Debug\net5.0\KontoBankowe.pdb
+C:\Users\Piotr\source\repos\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotr\source\repos\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.AssemblyInfoInputs.cache
+C:\Users\Piotr\source\repos\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.AssemblyInfo.cs
+C:\Users\Piotr\source\repos\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.dll
+C:\Users\Piotr\source\repos\KontoBankowe\KontoBankowe\obj\Debug\net5.0\ref\KontoBankowe.dll
+C:\Users\Piotr\source\repos\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.pdb
+C:\Users\Piotr\source\repos\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.genruntimeconfig.cache
+C:\Users\Tom\Desktop\cE wsb\KontoBankowe\KontoBankowe\bin\Debug\net5.0\KontoBankowe.exe
+C:\Users\Tom\Desktop\cE wsb\KontoBankowe\KontoBankowe\bin\Debug\net5.0\KontoBankowe.deps.json
+C:\Users\Tom\Desktop\cE wsb\KontoBankowe\KontoBankowe\bin\Debug\net5.0\KontoBankowe.runtimeconfig.json
+C:\Users\Tom\Desktop\cE wsb\KontoBankowe\KontoBankowe\bin\Debug\net5.0\KontoBankowe.runtimeconfig.dev.json
+C:\Users\Tom\Desktop\cE wsb\KontoBankowe\KontoBankowe\bin\Debug\net5.0\KontoBankowe.dll
+C:\Users\Tom\Desktop\cE wsb\KontoBankowe\KontoBankowe\bin\Debug\net5.0\ref\KontoBankowe.dll
+C:\Users\Tom\Desktop\cE wsb\KontoBankowe\KontoBankowe\bin\Debug\net5.0\KontoBankowe.pdb
+C:\Users\Tom\Desktop\cE wsb\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\cE wsb\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom\Desktop\cE wsb\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.AssemblyInfoInputs.cache
+C:\Users\Tom\Desktop\cE wsb\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.AssemblyInfo.cs
+C:\Users\Tom\Desktop\cE wsb\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\cE wsb\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.dll
+C:\Users\Tom\Desktop\cE wsb\KontoBankowe\KontoBankowe\obj\Debug\net5.0\ref\KontoBankowe.dll
+C:\Users\Tom\Desktop\cE wsb\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.pdb
+C:\Users\Tom\Desktop\cE wsb\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.genruntimeconfig.cache
+C:\Users\Piotr\Documents\Piotr\Test.oprog\New folder\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.csprojAssemblyReference.cache
+C:\Users\Piotr\Documents\Piotr\Test.oprog\New folder\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotr\Documents\Piotr\Test.oprog\New folder\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.AssemblyInfoInputs.cache
+C:\Users\Piotr\Documents\Piotr\Test.oprog\New folder\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.AssemblyInfo.cs
+C:\Users\Piotr\Documents\Piotr\Test.oprog\New folder\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Documents\Piotr\Test.oprog\New folder\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.dll
+C:\Users\Piotr\Documents\Piotr\Test.oprog\New folder\KontoBankowe\KontoBankowe\obj\Debug\net5.0\ref\KontoBankowe.dll
+C:\Users\Piotr\Documents\Piotr\Test.oprog\New folder\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.pdb
+C:\Users\Piotr\Documents\Piotr\Test.oprog\New folder\KontoBankowe\KontoBankowe\bin\Debug\net5.0\KontoBankowe.exe
+C:\Users\Piotr\Documents\Piotr\Test.oprog\New folder\KontoBankowe\KontoBankowe\bin\Debug\net5.0\KontoBankowe.deps.json
+C:\Users\Piotr\Documents\Piotr\Test.oprog\New folder\KontoBankowe\KontoBankowe\bin\Debug\net5.0\KontoBankowe.runtimeconfig.json
+C:\Users\Piotr\Documents\Piotr\Test.oprog\New folder\KontoBankowe\KontoBankowe\bin\Debug\net5.0\KontoBankowe.runtimeconfig.dev.json
+C:\Users\Piotr\Documents\Piotr\Test.oprog\New folder\KontoBankowe\KontoBankowe\bin\Debug\net5.0\KontoBankowe.dll
+C:\Users\Piotr\Documents\Piotr\Test.oprog\New folder\KontoBankowe\KontoBankowe\bin\Debug\net5.0\ref\KontoBankowe.dll
+C:\Users\Piotr\Documents\Piotr\Test.oprog\New folder\KontoBankowe\KontoBankowe\bin\Debug\net5.0\KontoBankowe.pdb
+C:\Users\Piotr\Documents\Piotr\Test.oprog\New folder\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.genruntimeconfig.cache
+C:\Users\Tom\Desktop\c£\KontoBankowe\KontoBankowe\bin\Debug\net5.0\KontoBankowe.exe
+C:\Users\Tom\Desktop\c£\KontoBankowe\KontoBankowe\bin\Debug\net5.0\KontoBankowe.deps.json
+C:\Users\Tom\Desktop\c£\KontoBankowe\KontoBankowe\bin\Debug\net5.0\KontoBankowe.runtimeconfig.json
+C:\Users\Tom\Desktop\c£\KontoBankowe\KontoBankowe\bin\Debug\net5.0\KontoBankowe.runtimeconfig.dev.json
+C:\Users\Tom\Desktop\c£\KontoBankowe\KontoBankowe\bin\Debug\net5.0\KontoBankowe.dll
+C:\Users\Tom\Desktop\c£\KontoBankowe\KontoBankowe\bin\Debug\net5.0\ref\KontoBankowe.dll
+C:\Users\Tom\Desktop\c£\KontoBankowe\KontoBankowe\bin\Debug\net5.0\KontoBankowe.pdb
+C:\Users\Tom\Desktop\c£\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\c£\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom\Desktop\c£\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.AssemblyInfoInputs.cache
+C:\Users\Tom\Desktop\c£\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.AssemblyInfo.cs
+C:\Users\Tom\Desktop\c£\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\c£\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.dll
+C:\Users\Tom\Desktop\c£\KontoBankowe\KontoBankowe\obj\Debug\net5.0\ref\KontoBankowe.dll
+C:\Users\Tom\Desktop\c£\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.pdb
+C:\Users\Tom\Desktop\c£\KontoBankowe\KontoBankowe\obj\Debug\net5.0\KontoBankowe.genruntimeconfig.cache
